@@ -1,0 +1,6 @@
+{
+  "name": "Ascent - AI Career & Skills Advisor",
+  "description": "Suggests tailored career paths, skill gap analyses, phased learning roadmaps, and curated learning resources based on your interests and current abilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
